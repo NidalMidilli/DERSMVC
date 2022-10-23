@@ -1,0 +1,15 @@
+C:\Users\nidal\source\repos\DersMVC\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\nidal\source\repos\DersMVC\Entity\bin\Debug\net5.0\Entity.runtimeconfig.json
+C:\Users\nidal\source\repos\DersMVC\Entity\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\nidal\source\repos\DersMVC\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\nidal\source\repos\DersMVC\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\nidal\source\repos\DersMVC\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\Users\nidal\source\repos\DersMVC\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidal\source\repos\DersMVC\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\nidal\source\repos\DersMVC\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\nidal\source\repos\DersMVC\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\nidal\source\repos\DersMVC\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\nidal\source\repos\DersMVC\Entity\obj\Debug\net5.0\refint\Entity.dll
+C:\Users\nidal\source\repos\DersMVC\Entity\obj\Debug\net5.0\Entity.pdb
+C:\Users\nidal\source\repos\DersMVC\Entity\obj\Debug\net5.0\Entity.genruntimeconfig.cache
+C:\Users\nidal\source\repos\DersMVC\Entity\obj\Debug\net5.0\ref\Entity.dll
